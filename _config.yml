@@ -9,7 +9,7 @@ name: Dirk Bretthauer
 description: Software Engineer from Augsburg, Germany
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars2.githubusercontent.com/u/2572947?v=3&u=b5049fee0e150051c7c14d4fe079976f04ba71bb&s=400
 
 #
 # Flags below are optional
@@ -21,9 +21,9 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: barryclark/jekyll-now
+  github: dirkbretthauer
   instagram:
-  linkedin:
+  linkedin:Dirk Bretthauer
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: dirkbretthauer
@@ -41,7 +41,7 @@ google_analytics:
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
-url:
+url:http://dirkbretthauer.github.io
 
 # If you're hosting your site at a Project repository on GitHub pages
 # (http://yourusername.github.io/repository-name)
