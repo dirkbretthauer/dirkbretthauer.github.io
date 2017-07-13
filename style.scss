@@ -152,8 +152,7 @@ img {
 
 .wrapper-masthead {
   margin-bottom: 50px;
-  background-color: $lightGray;
-  background-image: url("images/augsburg.png");
+  background-image: url("images/augsburg.png") no-repeat center center fixed;
   background-size: cover;
 }
 
