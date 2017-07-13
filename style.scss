@@ -157,8 +157,6 @@ img {
 
 .masthead {
   padding: 20px 0;
-  background-image: url("images/augsburg.png");
-  background-size: cover;
   border-bottom: 1px solid $lightGray;
 
   @include mobile {
