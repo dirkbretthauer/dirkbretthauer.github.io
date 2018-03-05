@@ -19,4 +19,6 @@ Put this function in to your Powershell profile.ps1 and use it like this:
 grep -Path . -FilePattern *.txt -Pattern findme
 ```
 
+In this example the grep command will search all *.txt files in the current directory and all subdirectories, which have 'findme' in their content.
+
 Have fun and happy searching!
