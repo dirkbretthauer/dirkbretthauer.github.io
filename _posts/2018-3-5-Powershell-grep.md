@@ -18,3 +18,5 @@ Put this function in to your Powershell profile.ps1 and use it like this:
 ```PowerShell
 grep -Path . -FilePattern *.txt -Pattern findme
 ```
+
+Have fun and happy searching!
