@@ -35,7 +35,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: $blue;
+  color: $lightBlue;
   font-weight: bold;
 
   line-height: 1.7;
@@ -203,7 +203,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $blue;
+  color: $lightBlue;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -252,19 +252,19 @@ img {
     color: #e0e0e0;
   }
   .masthead {
-    background: #222326;
+    background: $mediumGray;
     border-bottom: 1px solid #333;
     box-shadow: 0 2px 8px rgba(0,0,0,0.12);
   }
   .main-nav a {
-    color: #90caf9;
+    color: $lightBlue;
   }
   .main-nav a:hover, .main-nav a:focus {
-    background: #90caf9;
+    background: $lightBlue;
     color: #222326;
   }
   .wrapper-footer, footer {
-    background: #222326;
+    background: $mediumGray;
     color: #aaa;
     border-top: 1px solid #333;
     border-bottom: 1px solid #333;
@@ -309,7 +309,7 @@ img {
   margin-top: 50px;
   border-top: 1px solid $darkerGray;
   border-bottom: 1px solid $darkerGray;
-  background-color: $darkerGray;
+  background-color: $mediumGray;
   color: $white;
 }
 
